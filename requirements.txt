@@ -1,0 +1,7 @@
+streamlit
+json
+pandas
+os
+dateformat
+google.generativeai
+re

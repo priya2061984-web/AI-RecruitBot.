@@ -1,0 +1,118 @@
+[
+    {
+        "Name": "priyadarshini",
+        "Email": "priya2061984@gmail.com",
+        "Phone": "1234567890",
+        "Skills": "python , ml ,html ,css",
+        "Interview_QA": [
+            {
+                "question": "What is list comprehension?",
+                "answer": "it is used to concatinate the list"
+            },
+            {
+                "question": "Explain OOP in Python.",
+                "answer": "object oriented java"
+            },
+            {
+                "question": "What is a decorator?",
+                "answer": "used to decorate"
+            }
+        ],
+        "Timestamp": "2026-02-26 21:48:41.361507"
+    },
+    {
+        "Name": "priyadarshini",
+        "Email": "priya2061984@gmail.com",
+        "Phone": "1234567890",
+        "Skills": "python,machine learning",
+        "Interview_QA": [
+            {
+                "question": "What is list comprehension?",
+                "answer": "sdfghjkl"
+            },
+            {
+                "question": "Explain OOP in Python.",
+                "answer": "sdfghjkl"
+            },
+            {
+                "question": "What is a decorator?",
+                "answer": "sdfghjkl"
+            },
+            {
+                "question": "What is overfitting?",
+                "answer": "sdfghjkl"
+            },
+            {
+                "question": "Explain bias vs variance.",
+                "answer": "sdfghjkl"
+            }
+        ],
+        "Timestamp": "2026-02-27 00:36:37.438878"
+    },
+    {
+        "Name": "priyadarshini",
+        "Email": "priya2061984@gmail.com",
+        "Phone": "1234567890",
+        "Skills": "python,html",
+        "Interview_QA": [],
+        "Timestamp": "2026-02-27 12:26:04.361018"
+    },
+    {
+        "Name": "priyadarshini",
+        "Email": "priya2061984@gmail.com",
+        "Phone": "1234567890",
+        "Skills": "python,html",
+        "Interview_QA": [
+            {
+                "question": "What is the purpose of the `__init__` method in a Python class?",
+                "answer": "priya"
+            },
+            {
+                "question": "How do you implement a generator in Python?",
+                "answer": "priya"
+            },
+            {
+                "question": "Explain the difference between `id` and `class` attributes in HTML.",
+                "answer": "priya"
+            },
+            {
+                "question": "What is the significance of the `async` and `defer` attributes on a `<script>` tag?",
+                "answer": "priya"
+            },
+            {
+                "question": "Describe the concept of mutability vs. immutability in Python.",
+                "answer": "priya"
+            }
+        ],
+        "Timestamp": "2026-02-27 12:38:20.084865"
+    },
+    {
+        "Name": "priyadarshini",
+        "Email": "priya2061984@gmail.com",
+        "Phone": "1234567890",
+        "Skills": "python,html",
+        "Interview_QA": [
+            {
+                "question": "What is the Global Interpreter Lock (GIL) in Python and how does it impact concurrency?",
+                "answer": "good"
+            },
+            {
+                "question": "Explain the difference between mutable and immutable data types in Python.",
+                "answer": "good"
+            },
+            {
+                "question": "Describe a common use case for decorators in Python.",
+                "answer": "good"
+            },
+            {
+                "question": "What is the purpose of semantic HTML5 elements? Give an example.",
+                "answer": "good"
+            },
+            {
+                "question": "Explain the significance of the `alt` attribute for `<img>` tags.",
+                "answer": "good"
+            }
+        ],
+        "Timestamp": "2026-02-27 15:07:14.228141"
+    }
+]
